@@ -332,3 +332,4 @@ Data Interpretation
 *  Pivot Table Analysis
 *  Data-Driven HR Insights
 
+<img width="1583" height="654" alt="image" src="https://github.com/user-attachments/assets/6c43ef40-a5ea-4aeb-8b58-d1e8d7f76c1f" />
