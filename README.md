@@ -351,6 +351,4 @@ Using Excel calculations, pivot tables, and dashboard visualizations, the projec
 Overall, the project demonstrates practical skills in Excel-based data analysis, pivot table analysis, KPI development, HR analytics, data visualization, and dashboard design.
 
 
-├── README.md
-└── Dashboard/
-    └── HR Analytics Dashboard
+
